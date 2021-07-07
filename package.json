@@ -1,0 +1,8 @@
+{
+  "name": "com.waterkat.audiomanagement",
+  "version": "1.0.0",
+  "displayName": "WaterKat Audio Management",
+  "description": "This package allows you to manage audio more easily in unity",
+  "unity": "2021.1",
+  "type": "library"
+}
