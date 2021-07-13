@@ -1,0 +1,14 @@
+{
+    "name": "com.waterkat.audiomanagement",
+    "rootNamespace": "WaterKat.AudioManagement",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
